@@ -3,7 +3,7 @@ This repo contains a collection of notebooks supporting the benchmark analysis p
 
 Each of the 12 notebooks was used to evaluate DuckDB, Dask, and Xarray-Zarr for calculating a set of performance metrics from a 3-year NWM retrospective test dataset.
 
-An additional test included in the poster involving Spark can be found in a separate repo. (TODO link)
+An additional test included in the poster involving Spark can be found in a separate repo: https://github.com/RTIInternational/teehr-spark-iceberg
 
 Notebooks:
 
